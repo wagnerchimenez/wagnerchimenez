@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @wagnerchimenez
-- 👀 I’m interested in web development,php,laravel, symphony, javascript, python, c#
-- 🌱 I’m currently learning about domain driven design to collaborate with personal projects and others projects
+- 👀 I’m interested in web development, php, laravel, symphony, javascript, clean code, clean architecture, domain driven desin
+- 🌱 I’m currently working with theses tecnologies and web development is my work and hobby favorites
+- Here you will find public repositories about my studies about theses tecnologies mentionated earlier
 
 <!---
 wagnerchimenez/wagnerchimenez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
