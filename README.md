@@ -29,7 +29,6 @@ NestJS, Vue.js, React Native e Flutter (projetos de chat, APIs e apps complement
 
 | Repositório | O que demonstra |
 | --- | --- |
-| [gestao-pedidos-laravel](https://github.com/wagnerchimenez/wagnerchimenez/tree/main/gestao-pedidos-laravel) | Showcase sênior: Laravel + Inertia/React, filas Redis, Pest, Docker e CI |
 | [sistema-gestao-pedidos](https://github.com/wagnerchimenez/sistema-gestao-pedidos) | Full stack: NestJS + React, DDD, hexagonal, filas Redis, Docker, CI/CD e AWS ECS |
 | [chat-nestjs](https://github.com/wagnerchimenez/chat-nestjs) | Chat com NestJS, PostgreSQL, WebSocket/HTTP, Docker Compose e Swagger |
 

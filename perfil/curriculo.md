@@ -87,10 +87,6 @@ Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e React (Inertia), atu
 - Pós-graduação em Gestão de TI — Anhanguera Educacional · 2013–2014
 - Bacharelado em Ciência da Computação — UNIGRAN · 2005–2010
 
-## Showcase open-source
-
-- [gestao-pedidos-laravel](https://github.com/wagnerchimenez/wagnerchimenez/tree/main/gestao-pedidos-laravel) — Laravel + Inertia/React, filas Redis, Pest, Docker e CI
-
 ## Certificações relevantes
 
 - IA for Devs Full Cycle – Full Cycle (12/2025)
