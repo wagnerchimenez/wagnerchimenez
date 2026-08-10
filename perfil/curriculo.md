@@ -1,6 +1,6 @@
 # Wagner Lima Chimenez
 
-**Desenvolvedor Full Stack Sênior · PHP · Laravel · Vue.js**
+**Desenvolvedor Full Stack Sênior · PHP · Laravel · React**
 
 Dourados, MS – Brasil | Remoto | (67) 99926-2419  
 wagnerllchimenez.comp@gmail.com  
@@ -10,21 +10,21 @@ Versão editável em Word: [`Curriculo_Wagner_Lima_Chimenez.docx`](Curriculo_Wag
 
 ## Objetivo
 
-Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e Vue.js (Inertia), atuando em aplicações web de médio e grande porte (e-commerce, SaaS, RH, EAD e portais corporativos). Experiência com APIs REST, filas (RabbitMQ), Redis, Docker, TDD e monitoramento (New Relic/Graylog). Busco oportunidades remotas em Full Stack ou Backend PHP/Laravel + Vue.js / Inertia.
+Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e React (Inertia), atuando em aplicações web de médio e grande porte (e-commerce, SaaS, RH, EAD e portais corporativos). Experiência com APIs REST, filas (RabbitMQ), Redis, Docker, TDD e monitoramento (New Relic/Graylog). Busco oportunidades remotas em Full Stack ou Backend PHP/Laravel + React / Inertia.
 
 ## Produtos e projetos em produção
 
 ### Officina Pro — SaaS próprio
 **https://officinapro.com.br**
 - SaaS de gestão para oficinas mecânicas em produção
-- Stack: PHP, Laravel, Inertia.js / Vue.js
+- Stack: PHP, Laravel, Inertia.js
 - Papel: desenvolvimento, manutenção e evolução do produto
 
 ### Salão Elite — SaaS próprio
 **https://salaoelite.com.br**
 - SaaS de gestão para salões de beleza em produção
-- Stack: PHP, Laravel, Inertia.js / Vue.js
-- Segundo produto SaaS no mesmo stack (repetibilidade)
+- Stack: PHP, Laravel, Inertia.js
+- Segundo produto SaaS (repetibilidade)
 
 ### Iguatemi Notícias — projeto para cliente
 **https://iguateminoticias.com.br**
@@ -35,7 +35,7 @@ Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e Vue.js (Inertia), at
 ## Competências técnicas
 
 - **Backend:** PHP 8, Laravel, Symfony, Inertia.js, APIs REST, NestJS (complementar)
-- **Frontend:** Vue.js, JavaScript, TypeScript, React (quando o projeto exige)
+- **Frontend:** React, JavaScript, TypeScript, Vue.js (quando o projeto exige)
 - **Dados / async:** MySQL, PostgreSQL, Redis, RabbitMQ
 - **Qualidade / ops:** PHPUnit, Pest, TDD, Docker, New Relic, Graylog, Git, Scrum, Kanban
 - **Complementar:** Flutter, React Native
@@ -86,6 +86,10 @@ Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e Vue.js (Inertia), at
 
 - Pós-graduação em Gestão de TI — Anhanguera Educacional · 2013–2014
 - Bacharelado em Ciência da Computação — UNIGRAN · 2005–2010
+
+## Showcase open-source
+
+- [gestao-pedidos-laravel](https://github.com/wagnerchimenez/wagnerchimenez/tree/main/gestao-pedidos-laravel) — Laravel + Inertia/React, filas Redis, Pest, Docker e CI
 
 ## Certificações relevantes
 

@@ -2,20 +2,20 @@
 
 ## Área-alvo
 
-**Desenvolvedor Full Stack Sênior — PHP / Laravel + Vue.js**  
-Foco: SaaS, e-commerce, APIs REST, filas, Docker e qualidade (TDD).
+**Desenvolvedor Full Stack Sênior — PHP / Laravel + React**  
+Foco: SaaS, e-commerce, APIs REST, Inertia, filas, Docker e qualidade (TDD).
 
 ## Keywords (ATS)
 
-Laravel, PHP 8, Vue.js, JavaScript, TypeScript, MySQL, PostgreSQL, Redis, RabbitMQ, Docker, API REST, PHPUnit, TDD, Symfony, New Relic, Scrum, Kanban, e-commerce, SaaS
+Laravel, PHP 8, React, Inertia.js, JavaScript, TypeScript, MySQL, PostgreSQL, Redis, RabbitMQ, Docker, API REST, PHPUnit, Pest, TDD, Symfony, Vue.js, New Relic, Scrum, Kanban, e-commerce, SaaS
 
 ## O que destacar
 
-- **Produtos em produção:** Officina Pro e Salão Elite (SaaS Laravel + Inertia/Vue); Iguatemi Notícias (cliente, Laravel)
+- **Produtos em produção:** Officina Pro e Salão Elite (SaaS Laravel + Inertia); Iguatemi Notícias (cliente, Laravel)
+- **Showcase:** `gestao-pedidos-laravel` (Laravel + Inertia/React, filas, Pest, Docker, CI)
 - Tray (~3 anos): e-commerce, Laravel + Vue, filas RabbitMQ, New Relic, Docker, TDD
 - Knet (atual): Laravel + Vue/React + TypeScript, pagamentos, API REST
 - Práticas: Clean Code, DDD, arquitetura hexagonal, ambientes ágeis
-- Showcase open-source: `gestao-pedidos-laravel` (código auditável)
 
 ## O que não colocar no topo
 
@@ -27,4 +27,4 @@ Laravel, PHP 8, Vue.js, JavaScript, TypeScript, MySQL, PostgreSQL, Redis, Rabbit
 
 ## Regra de candidatura
 
-Só se candidatar quando **PHP e/ou Laravel** estiver nos requisitos obrigatórios (Vue ou React como front é bônus). Evitar Java/Spring e vagas “só React” até o portfólio front estar no mesmo nível do backend.
+Só se candidatar quando **PHP e/ou Laravel** estiver nos requisitos obrigatórios (React ou Vue como front é bônus forte). Evitar Java/Spring se não for o foco.

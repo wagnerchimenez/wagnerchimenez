@@ -1,13 +1,13 @@
-# Gestão de Pedidos (Laravel + Inertia / Vue 3)
+# Gestão de Pedidos (Laravel + Inertia / React)
 
-Projeto demonstrativo **Full Stack Sênior** para evidenciar capacidade em **PHP 8, Laravel, Inertia.js, Vue 3, filas Redis, Pest, Docker e CI** — alinhado a produtos reais em produção (Officina Pro, Salão Elite) e à experiência em e-commerce (Tray).
+Projeto demonstrativo **Full Stack Sênior** para evidenciar capacidade em **PHP 8, Laravel, Inertia.js, React, filas Redis, Pest, Docker e CI** — alinhado a produtos reais em produção (Officina Pro, Salão Elite) e à experiência em e-commerce (Tray).
 
 ## Cobertura
 
 | Requisito de mercado | Neste projeto |
 | --- | --- |
 | PHP 8 + Laravel | Laravel 13 + PHP 8.3 |
-| Vue 3 + Inertia | Breeze + Inertia + Vue 3 + Tailwind |
+| React + Inertia | Breeze + Inertia + React 18 + Tailwind |
 | PostgreSQL | Docker Compose (`postgres`) |
 | Redis + filas | Queues `pedidos` e `relatorios` |
 | Relatório Excel assíncrono | Job + Maatwebsite Excel |
@@ -19,8 +19,8 @@ Projeto demonstrativo **Full Stack Sênior** para evidenciar capacidade em **PHP
 
 ## Stack
 
-- Backend: Laravel, Eloquent, Jobs/Queues, validação, Sanctum/session auth (Breeze)
-- Frontend: Vue 3, Inertia.js, Tailwind CSS, Vite
+- Backend: Laravel, Eloquent, Jobs/Queues, validação, auth (Breeze)
+- Frontend: React 18, Inertia.js, Tailwind CSS, Vite
 - Dados: PostgreSQL (Compose) / SQLite (testes)
 - Async: Redis + `queue:work`
 - Qualidade: Pest, Pint (opcional no CI)
@@ -97,19 +97,9 @@ Além deste showcase open-source:
 
 ## Publicar como repositório dedicado
 
-Este código vive em `wagnerchimenez/wagnerchimenez/gestao-pedidos-laravel` enquanto o token do ambiente não cria repos novos. Para promover a um repo próprio:
-
-```bash
-cd gestao-pedidos-laravel
-git init
-git add .
-git commit -m "Showcase Laravel + Inertia gestão de pedidos"
-# Crie o repo vazio gestao-pedidos-laravel na sua conta e:
-git remote add origin git@github.com:wagnerchimenez/gestao-pedidos-laravel.git
-git push -u origin main
-```
+Ver [PUBLICAR_REPO.md](PUBLICAR_REPO.md).
 
 ## Autor
 
-Wagner Lima Chimenez — Full Stack Sênior (PHP / Laravel / Vue / Inertia)  
+Wagner Lima Chimenez — Full Stack Sênior (PHP / Laravel / React / Inertia)  
 https://github.com/wagnerchimenez

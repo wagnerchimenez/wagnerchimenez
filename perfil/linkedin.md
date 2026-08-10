@@ -1,19 +1,19 @@
 # Textos para colar no LinkedIn
 
-Alinhados à busca: **Full Stack Sênior PHP/Laravel + Vue.js · remoto · SaaS/e-commerce**.
+Alinhados à busca: **Full Stack Sênior PHP/Laravel + React · remoto · SaaS/e-commerce**.
 
 ---
 
 ## Headline (máx. ~220 caracteres)
 
 ```
-Desenvolvedor Full Stack Sênior | PHP · Laravel · Vue.js / Inertia | SaaS em produção | Remoto
+Desenvolvedor Full Stack Sênior | PHP · Laravel · React / Inertia | SaaS em produção | Remoto
 ```
 
 Alternativa um pouco mais curta:
 
 ```
-Full Stack Sênior | Laravel · Inertia/Vue · PHP | SaaS, e-commerce e APIs | Aberto a remoto
+Full Stack Sênior | Laravel · React · PHP | SaaS, e-commerce e APIs | Aberto a remoto
 ```
 
 ---
@@ -21,9 +21,9 @@ Full Stack Sênior | Laravel · Inertia/Vue · PHP | SaaS, e-commerce e APIs | A
 ## Sobre
 
 ```
-Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e Vue.js (Inertia). Atuei em aplicações web de médio e grande porte — e-commerce, SaaS, RH, EAD e portais corporativos — com atenção a performance, segurança, manutenibilidade e escalabilidade.
+Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e React (Inertia). Atuei em aplicações web de médio e grande porte — e-commerce, SaaS, RH, EAD e portais corporativos — com atenção a performance, segurança, manutenibilidade e escalabilidade.
 
-Desenvolvo e mantenho produtos SaaS em produção com Laravel + Inertia/Vue:
+Desenvolvo e mantenho produtos SaaS em produção com Laravel + Inertia:
 • Officina Pro (gestão para oficinas) — https://officinapro.com.br
 • Salão Elite (gestão para salões) — https://salaoelite.com.br
 Também entreguei o portal Iguatemi Notícias para cliente — https://iguateminoticias.com.br
@@ -32,25 +32,26 @@ Na Tray, desenvolvi funcionalidades na plataforma de e-commerce com Laravel e Vu
 
 Aplico boas práticas de engenharia (Clean Code, TDD, DDD e arquitetura hexagonal) e trabalho bem em times ágeis (Scrum/Kanban).
 
-Complementarmente, já atuei com NestJS, Flutter e React Native em projetos de chat e apps — úteis como diferencial, sem ser o foco atual.
+Complementarmente, já atuei com NestJS, Vue.js, Flutter e React Native — úteis como diferencial.
 
-Busco oportunidades remotas como Desenvolvedor Full Stack (PHP/Laravel + Vue.js / Inertia), onde eu possa entregar valor técnico e de negócio com qualidade e consistência.
+Busco oportunidades remotas como Desenvolvedor Full Stack (PHP/Laravel + React / Inertia), onde eu possa entregar valor técnico e de negócio com qualidade e consistência.
 
 📍 Dourados, MS — Brasil | Aberto a remoto
 🔗 GitHub: https://github.com/wagnerchimenez
 ✉ wagnerllchimenez.comp@gmail.com
 ```
 
-### Sobre (versão EN curta — opcional, no final do Sobre ou em Featured)
+### Sobre (versão EN curta — opcional)
 
 ```
-Senior Full Stack Developer focused on PHP, Laravel and Vue.js (Inertia). I build and maintain SaaS products in production (Officina Pro, Salão Elite) and have e-commerce experience (Tray) with REST APIs, RabbitMQ, Docker, TDD and New Relic. Open to remote roles.
+Senior Full Stack Developer focused on PHP, Laravel and React (Inertia). I build and maintain SaaS products in production (Officina Pro, Salão Elite) and have e-commerce experience (Tray) with REST APIs, RabbitMQ, Docker, TDD and New Relic. Open to remote roles.
 ```
+
 ---
 
 ## Open to Work (preferências)
 
-- **Títulos:** Desenvolvedor Full Stack Sênior; Desenvolvedor PHP; Desenvolvedor Laravel; Desenvolvedor Backend
+- **Títulos:** Desenvolvedor Full Stack Sênior; Desenvolvedor PHP; Desenvolvedor Laravel; Desenvolvedor React
 - **Tipos:** CLT / PJ / temporário (conforme interesse)
 - **Local:** Remoto (Brasil)
 - **Início:** Imediatamente / conforme disponibilidade atual na Knet
@@ -61,20 +62,20 @@ Senior Full Stack Developer focused on PHP, Laravel and Vue.js (Inertia). I buil
 
 1. Laravel  
 2. PHP  
-3. Vue.js  
+3. React  
 4. Inertia.js  
 5. JavaScript  
-6. MySQL  
-7. API REST  
-8. Docker  
-9. RabbitMQ  
-10. PostgreSQL  
-11. TypeScript  
-12. Symfony  
-13. PHPUnit  
-14. Redis  
-15. Git  
-16. React  
+6. TypeScript  
+7. MySQL  
+8. API REST  
+9. Docker  
+10. RabbitMQ  
+11. PostgreSQL  
+12. Vue.js  
+13. Symfony  
+14. PHPUnit  
+15. Redis  
+16. Git  
 17. NestJS *(mais abaixo)*  
 18. Flutter *(complementar)*  
 
@@ -87,7 +88,7 @@ https://officinapro.com.br
 
 ```
 - Desenvolvi e mantenho SaaS de gestão para oficinas mecânicas em produção.
-- Stack: PHP, Laravel, Inertia.js / Vue.js, sessão autenticada e módulos de operação do negócio.
+- Stack: PHP, Laravel, Inertia.js, sessão autenticada e módulos de operação do negócio.
 - Responsável por evolução do produto, deploy e estabilidade em ambiente real.
 ```
 
@@ -96,7 +97,7 @@ https://salaoelite.com.br
 
 ```
 - Desenvolvi e mantenho SaaS de gestão para salões de beleza em produção.
-- Stack: PHP, Laravel, Inertia.js / Vue.js — segundo produto SaaS, reforçando repetibilidade no stack.
+- Stack: PHP, Laravel, Inertia.js — segundo produto SaaS, reforçando repetibilidade.
 - Foco em fluxos do dia a dia do estabelecimento e experiência web moderna.
 ```
 
@@ -109,6 +110,14 @@ https://iguateminoticias.com.br
 - Papel: desenvolvimento e manutenção sob demanda do cliente (não é produto próprio).
 ```
 
+### Showcase open-source — Gestão de Pedidos
+https://github.com/wagnerchimenez/wagnerchimenez/tree/main/gestao-pedidos-laravel
+
+```
+- Projeto demonstrativo Full Stack: Laravel + Inertia/React, filas Redis, Pest, Docker e CI.
+- Pedidos, relatórios Excel assíncronos, dashboard e health check.
+```
+
 ---
 
 ## Experiências (colar em cada cargo)
@@ -117,7 +126,7 @@ https://iguateminoticias.com.br
 **dez de 2025 – o momento · Remoto**
 
 ```
-- Desenvolvimento e manutenção de sistema web em produção com Laravel (backend) e Vue.js / PrimeVue no frontend, além de módulos em React com TypeScript.
+- Desenvolvimento e manutenção de sistema web com Laravel (backend) e Vue.js / PrimeVue no frontend, além de módulos em React com TypeScript.
 - Implementação e evolução de APIs REST e integração com meios de pagamento.
 - Modelagem e manutenção de dados em MySQL, com foco em estabilidade e manutenibilidade.
 - Colaboração em time remoto com entregas contínuas de funcionalidades e correções.
@@ -134,8 +143,6 @@ https://iguateminoticias.com.br
 
 ### Tray · Desenvolvedor Full Stack Sênior · Tempo integral  
 **mar de 2022 – jan de 2025 · ~2 anos 11 meses**
-
-*(Sugestão: alinhar o título de “Programador Senior” para este nome, se a empresa permitir no perfil.)*
 
 ```
 - Desenvolvi funcionalidades na plataforma de e-commerce utilizando PHP, Laravel e Vue.js.
@@ -204,7 +211,7 @@ https://iguateminoticias.com.br
 
 - Finais (suporte) — opcional manter bem resumido  
 - Bit Point (estágio suporte) — ocultar  
-- Glassbox, Atacadão, APROMS — **ocultar/remover** (não agregam para vaga sênior remota)
+- Glassbox, Atacadão, APROMS — **ocultar/remover**
 
 ---
 
@@ -220,14 +227,14 @@ https://iguateminoticias.com.br
 
 ## Templates de mensagem a recrutadores
 
-### Vaga Laravel / PHP / Vue (preferencial)
+### Vaga Laravel / PHP / React (preferencial)
 
 ```
 Olá, [Nome]! Tudo bem?
 
-Vi a vaga de [nome da vaga] e meu perfil encaixa bem: sou Full Stack Sênior com foco em PHP/Laravel e Vue.js (Inertia), com SaaS em produção (Officina Pro e Salão Elite) e quase 3 anos na Tray (e-commerce) com APIs REST, RabbitMQ, Docker, TDD e New Relic.
+Vi a vaga de [nome da vaga] e meu perfil encaixa bem: sou Full Stack Sênior com foco em PHP/Laravel e React (Inertia), com SaaS em produção (Officina Pro e Salão Elite) e quase 3 anos na Tray (e-commerce) com APIs REST, RabbitMQ, Docker, TDD e New Relic.
 
-Atualmente atuo remoto com Laravel + Vue/Inertia. Segue meu LinkedIn e GitHub:
+Atualmente atuo remoto com Laravel + React/Inertia. Segue meu LinkedIn e GitHub:
 https://www.linkedin.com/in/wagner-lima-chimenez-2b0386153/
 https://github.com/wagnerchimenez
 • https://officinapro.com.br | https://salaoelite.com.br
@@ -235,12 +242,12 @@ https://github.com/wagnerchimenez
 Se fizer sentido, fico à disposição para conversar. Obrigado!
 ```
 
-### Vaga PHP backend (sem Vue obrigatório)
+### Vaga PHP backend (sem React obrigatório)
 
 ```
 Olá, [Nome]! Tudo bem?
 
-Tenho interesse na vaga de [nome]. Sou desenvolvedor sênior com forte base em PHP (Laravel/Symfony), Inertia/Vue, APIs REST, filas (RabbitMQ), Docker e testes — SaaS em produção (Officina Pro / Salão Elite) e e-commerce (Tray).
+Tenho interesse na vaga de [nome]. Sou desenvolvedor sênior com forte base em PHP (Laravel/Symfony), React/Inertia, APIs REST, filas (RabbitMQ), Docker e testes — SaaS em produção (Officina Pro / Salão Elite) e e-commerce (Tray).
 
 Perfil: https://www.linkedin.com/in/wagner-lima-chimenez-2b0386153/
 GitHub: https://github.com/wagnerchimenez
