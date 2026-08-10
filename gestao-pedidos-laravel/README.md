@@ -28,15 +28,17 @@ Projeto demonstrativo **Full Stack Sênior** para evidenciar capacidade em **PHP
 ## Como rodar (Docker)
 
 ```bash
-docker compose up --build
+cd gestao-pedidos-laravel
+docker compose down -v
+docker compose up -d --build
 ```
 
 | Serviço | URL / porta |
 | --- | --- |
 | App | http://localhost:8080 |
 | Health | http://localhost:8080/api/saude |
-| Postgres | localhost:5432 |
-| Redis | localhost:6379 |
+| Postgres (host) | localhost:5433 |
+| Redis (host) | localhost:6380 |
 
 **Login demo (seed):**
 
@@ -44,6 +46,14 @@ docker compose up --build
 - Senha: `password`
 
 O serviço `worker` processa as filas `pedidos` e `relatorios`.
+
+### Se o build falhar
+
+1. Confirme Docker Desktop / Engine rodando (`docker version`).
+2. Limpe cache e volumes: `docker compose down -v --rmi local` e rode de novo.
+3. Portas `8080`, `5433` e `6380` não devem estar ocupadas (Postgres/Redis locais usam 5432/6379 — por isso mapeamos 5433/6380).
+4. Veja o log: `docker compose logs -f app`.
+5. Em Mac/Windows com pouco disco, limpe imagens antigas: `docker system prune -af`.
 
 ## Como rodar (local)
 
