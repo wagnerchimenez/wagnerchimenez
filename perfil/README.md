@@ -7,5 +7,3 @@
 | [linkedin.md](linkedin.md) | Headline, Sobre, experiências, produtos e templates |
 | [posicionamento.md](posicionamento.md) | Área-alvo e regras de candidatura |
 | [plano-evolucao.md](plano-evolucao.md) | Próximos passos técnicos |
-
-Showcase open-source: [`../gestao-pedidos-laravel`](../gestao-pedidos-laravel)

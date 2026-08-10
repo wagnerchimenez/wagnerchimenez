@@ -12,7 +12,6 @@ Laravel, PHP 8, React, Inertia.js, JavaScript, TypeScript, MySQL, PostgreSQL, Re
 ## O que destacar
 
 - **Produtos em produção:** Officina Pro e Salão Elite (SaaS Laravel + Inertia); Iguatemi Notícias (cliente, Laravel)
-- **Showcase:** `gestao-pedidos-laravel` (Laravel + Inertia/React, filas, Pest, Docker, CI)
 - Tray (~3 anos): e-commerce, Laravel + Vue, filas RabbitMQ, New Relic, Docker, TDD
 - Knet (atual): Laravel + Vue/React + TypeScript, pagamentos, API REST
 - Práticas: Clean Code, DDD, arquitetura hexagonal, ambientes ágeis
