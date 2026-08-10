@@ -11,9 +11,11 @@ Laravel, PHP 8, Vue.js, JavaScript, TypeScript, MySQL, PostgreSQL, Redis, Rabbit
 
 ## O que destacar
 
+- **Produtos em produção:** Officina Pro e Salão Elite (SaaS Laravel + Inertia/Vue); Iguatemi Notícias (cliente, Laravel)
 - Tray (~3 anos): e-commerce, Laravel + Vue, filas RabbitMQ, New Relic, Docker, TDD
 - Knet (atual): Laravel + Vue/React + TypeScript, pagamentos, API REST
 - Práticas: Clean Code, DDD, arquitetura hexagonal, ambientes ágeis
+- Showcase open-source: `gestao-pedidos-laravel` (código auditável)
 
 ## O que não colocar no topo
 

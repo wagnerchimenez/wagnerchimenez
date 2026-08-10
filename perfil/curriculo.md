@@ -10,14 +10,34 @@ Versão editável em Word: [`Curriculo_Wagner_Lima_Chimenez.docx`](Curriculo_Wag
 
 ## Objetivo
 
-Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e Vue.js, atuando em aplicações web de médio e grande porte (e-commerce, SaaS, RH, EAD e portais corporativos). Experiência com APIs REST, filas (RabbitMQ), Redis, Docker, TDD e monitoramento (New Relic/Graylog). Busco oportunidades remotas em Full Stack ou Backend PHP/Laravel + Vue.js.
+Desenvolvedor Full Stack Sênior com foco em PHP, Laravel e Vue.js (Inertia), atuando em aplicações web de médio e grande porte (e-commerce, SaaS, RH, EAD e portais corporativos). Experiência com APIs REST, filas (RabbitMQ), Redis, Docker, TDD e monitoramento (New Relic/Graylog). Busco oportunidades remotas em Full Stack ou Backend PHP/Laravel + Vue.js / Inertia.
+
+## Produtos e projetos em produção
+
+### Officina Pro — SaaS próprio
+**https://officinapro.com.br**
+- SaaS de gestão para oficinas mecânicas em produção
+- Stack: PHP, Laravel, Inertia.js / Vue.js
+- Papel: desenvolvimento, manutenção e evolução do produto
+
+### Salão Elite — SaaS próprio
+**https://salaoelite.com.br**
+- SaaS de gestão para salões de beleza em produção
+- Stack: PHP, Laravel, Inertia.js / Vue.js
+- Segundo produto SaaS no mesmo stack (repetibilidade)
+
+### Iguatemi Notícias — projeto para cliente
+**https://iguateminoticias.com.br**
+- Portal de notícias regionais entregue para cliente
+- Stack: PHP / Laravel
+- Papel: desenvolvimento e manutenção (não é produto próprio)
 
 ## Competências técnicas
 
-- **Backend:** PHP 8, Laravel, Symfony, APIs REST, NestJS (complementar)
+- **Backend:** PHP 8, Laravel, Symfony, Inertia.js, APIs REST, NestJS (complementar)
 - **Frontend:** Vue.js, JavaScript, TypeScript, React (quando o projeto exige)
 - **Dados / async:** MySQL, PostgreSQL, Redis, RabbitMQ
-- **Qualidade / ops:** PHPUnit, TDD, Docker, New Relic, Graylog, Git, Scrum, Kanban
+- **Qualidade / ops:** PHPUnit, Pest, TDD, Docker, New Relic, Graylog, Git, Scrum, Kanban
 - **Complementar:** Flutter, React Native
 
 ## Experiência profissional
