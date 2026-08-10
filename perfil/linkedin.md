@@ -213,7 +213,7 @@ https://iguateminoticias.com.br
 1. Officina Pro: https://officinapro.com.br  
 2. Salão Elite: https://salaoelite.com.br  
 3. Iguatemi Notícias (cliente): https://iguateminoticias.com.br  
-4. GitHub / showcase: https://github.com/wagnerchimenez (e `gestao-pedidos-laravel` quando publicado)  
+4. Showcase open-source: https://github.com/wagnerchimenez/wagnerchimenez/tree/main/gestao-pedidos-laravel  
 5. PDF/Word do currículo atualizado (`perfil/Curriculo_Wagner_Lima_Chimenez.docx`)
 
 ---
