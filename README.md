@@ -6,6 +6,8 @@ Desenvolvedor Full Stack Sênior com ~15 anos em aplicações web, foco em **PHP
 
 Busco oportunidades **remotas** como Full Stack ou Backend **PHP/Laravel**.
 
+Currículo (PDF): [Curriculo_Wagner_Lima_Chimenez.pdf](Curriculo_Wagner_Lima_Chimenez.pdf)
+
 ## Em produção
 
 Produtos e entregas reais com **Laravel** (e Inertia nos SaaS):

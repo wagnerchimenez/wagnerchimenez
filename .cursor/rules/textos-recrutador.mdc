@@ -7,7 +7,14 @@ alwaysApply: true
 
 Público-alvo: **recrutador / hiring manager** de vagas PHP/Laravel (remoto).
 
-Escopo: `README.md`, textos de currículo/LinkedIn e qualquer conteúdo público de perfil neste repo. Não versionar arquivo `.docx` de currículo neste repositório.
+Escopo: `README.md`, `linkedin.md`, PDF do currículo e qualquer conteúdo público de perfil neste repo.
+
+## Artefatos de currículo
+
+- Versionar no git: `Curriculo_Wagner_Lima_Chimenez.pdf`
+- **Não** versionar `.docx` (já no `.gitignore`)
+- Regenerar com `python3 gerar_curriculo.py`: PDF na raiz; Word em `/opt/cursor/artifacts/` só para download
+- Manter `linkedin.md` sincronizado com o README e o PDF quando o conteúdo de perfil mudar
 
 ## Fazer
 
@@ -23,3 +30,4 @@ Escopo: `README.md`, textos de currículo/LinkedIn e qualquer conteúdo público
 - Diluir o foco PHP com mobile/NestJS no primeiro parágrafo
 - Listas longas de cursos básicos (HTML, hábitos)
 - Frases como “quando o projeto pede” ou “úteis como diferencial, sem ser o eixo da carreira”
+- Telefone no README / LinkedIn público deste repo (salvo pedido explícito)
