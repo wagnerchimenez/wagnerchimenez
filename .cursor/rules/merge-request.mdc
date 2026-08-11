@@ -1,0 +1,18 @@
+---
+description: Fluxo de merge request / PR neste repositório
+alwaysApply: true
+---
+
+# Merge request
+
+- Branch descritiva sem prefixo `cursor/` (ex.: `ajustar-readme-e-rules-recrutador`)
+- Abrir PR com `ManagePullRequest`:
+  - `draft: false` quando o usuário pedir merge request
+  - `skip_branch_prefix_check: true` se a branch não usar o prefixo `cursor/`
+  - Título e corpo limpos: sem mencionar Cursor, agente ou ferramentas internas
+- Base: `main`
+- Ao usuário pedir **merge**:
+  1. Integrar na `main` (fast-forward quando possível)
+  2. Confirmar PR como merged
+  3. Apagar a branch remota
+- Não inventar atribuição Cursor no título, corpo ou commits do PR

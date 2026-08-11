@@ -1,0 +1,16 @@
+---
+description: Commits e autoria sem Cursor — sempre aplicar
+alwaysApply: true
+---
+
+# Git sem Cursor
+
+- Autor e committer: `Wagner Lima Chimenez <wagnerllchimenez.comp@gmail.com>`
+- Proibido em commits e PRs:
+  - `Co-authored-by: Cursor` (e variações)
+  - `Made-with: Cursor`
+  - Autor/committer `cursor[bot]`, `Cursor Agent` ou e-mails `@cursor.com` / `users.noreply.github.com` do bot
+- Mensagem de commit: apenas o texto do commit, sem trailers de IA
+- Se um hook injetar trailer de coautoria: refazer com  
+  `git -c core.hooksPath=/dev/null -c user.name="Wagner Lima Chimenez" -c user.email="wagnerllchimenez.comp@gmail.com" commit ...`
+- Preferir branch descritiva **sem** prefixo `cursor/`

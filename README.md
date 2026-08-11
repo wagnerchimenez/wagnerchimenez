@@ -6,6 +6,8 @@ Desenvolvedor Full Stack Sênior com ~15 anos em aplicações web, foco em **PHP
 
 Busco oportunidades **remotas** como Full Stack ou Backend **PHP/Laravel**.
 
+Currículo em Word: [Curriculo_Wagner_Lima_Chimenez.docx](Curriculo_Wagner_Lima_Chimenez.docx)
+
 ## Em produção
 
 Produtos e entregas reais com **Laravel** (e Inertia nos SaaS):
@@ -19,7 +21,7 @@ Produtos e entregas reais com **Laravel** (e Inertia nos SaaS):
 ## Stack principal
 
 - **Backend:** PHP 8 · Laravel · Symfony · Inertia.js · APIs REST · Composer
-- **Frontend:** React · JavaScript · TypeScript · Vue.js (quando o projeto pede)
+- **Frontend:** React · JavaScript · TypeScript · Vue.js
 - **Dados e async:** MySQL · PostgreSQL · Redis · RabbitMQ
 - **Qualidade e ops:** PHPUnit / Pest / TDD · Docker · New Relic · Graylog · Git · Scrum / Kanban
 
@@ -30,9 +32,9 @@ Produtos e entregas reais com **Laravel** (e Inertia nos SaaS):
 - **Knet** (atual) — Laravel + Vue/React/TypeScript; APIs REST; integração com meios de pagamento
 - Antes: RH, EAD, telefonia e PDV com PHP/Laravel/Symfony e MySQL
 
-## Também já atuei com
+## Experiência complementar
 
-NestJS, React Native e Flutter (chat, APIs e apps complementares) — úteis como diferencial, sem ser o eixo da carreira.
+NestJS, React Native e Flutter — chat, APIs e apps.
 
 ## Projetos open-source em destaque
 

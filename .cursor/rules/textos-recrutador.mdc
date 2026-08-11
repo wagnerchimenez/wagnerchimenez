@@ -1,0 +1,25 @@
+---
+description: Textos públicos de perfil voltados a recrutadores
+alwaysApply: true
+---
+
+# Textos para recrutador
+
+Público-alvo: **recrutador / hiring manager** de vagas PHP/Laravel (remoto).
+
+Escopo: `README.md`, currículo Word, LinkedIn e qualquer texto público de perfil neste repo.
+
+## Fazer
+
+- Headline clara: cargo + stack principal (PHP 8, Laravel, React)
+- Anos de experiência, domínio (e-commerce, SaaS, APIs) e entregas concretas
+- Evidências: empresas, períodos, produtos com URL, tecnologias no contexto da entrega
+- Verbos de ação (desenvolvi, integrei, monitei); keywords ATS (PHP 8, Laravel, Symfony, React, Docker, RabbitMQ, PHPUnit, etc.)
+
+## Evitar
+
+- Meta-comentário ou coaching: “diferencial”, “eixo da carreira”, “não priorizar”, “só se candidatar se…”
+- Notas internas para o agente ou justificativas de branding
+- Diluir o foco PHP com mobile/NestJS no primeiro parágrafo
+- Listas longas de cursos básicos (HTML, hábitos)
+- Frases como “quando o projeto pede” ou “úteis como diferencial, sem ser o eixo da carreira”
