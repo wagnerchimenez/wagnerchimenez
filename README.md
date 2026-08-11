@@ -1,12 +1,14 @@
 # Olá! Eu sou o Wagner Lima Chimenez
 
-Desenvolvedor **Full Stack Sênior** focado em **PHP, Laravel e React (Inertia)**, com experiência em aplicações web de médio e grande porte — especialmente **e-commerce, SaaS, APIs REST** e sistemas corporativos.
+**Desenvolvedor Full Stack Sênior · PHP · Laravel · React**
 
-Busco oportunidades **remotas** onde eu possa contribuir com código sustentável, entregas alinhadas ao negócio e evolução contínua da arquitetura.
+Desenvolvedor Full Stack Sênior com ~15 anos em aplicações web, foco em **PHP 8, Laravel e React (Inertia)**. Experiência em e-commerce de médio/grande porte (**Tray**), SaaS próprios em produção, APIs REST, filas (RabbitMQ), Redis, Docker, TDD e monitoramento (New Relic/Graylog). Também atuei com **Symfony** em sistemas corporativos.
+
+Busco oportunidades **remotas** como Full Stack ou Backend **PHP/Laravel**.
 
 ## Em produção
 
-Produtos e entregas reais que desenvolvo/mantenho com **Laravel** (e Inertia nos SaaS):
+Produtos e entregas reais com **Laravel** (e Inertia nos SaaS):
 
 | Projeto | Tipo | Link |
 | --- | --- | --- |
@@ -16,14 +18,21 @@ Produtos e entregas reais que desenvolvo/mantenho com **Laravel** (e Inertia nos
 
 ## Stack principal
 
-- **Backend:** PHP 8 · Laravel · Symfony · APIs REST · Inertia.js
+- **Backend:** PHP 8 · Laravel · Symfony · Inertia.js · APIs REST · Composer
 - **Frontend:** React · JavaScript · TypeScript · Vue.js (quando o projeto pede)
 - **Dados e async:** MySQL · PostgreSQL · Redis · RabbitMQ
-- **Qualidade e ops:** PHPUnit / Pest / TDD · Docker · New Relic · Graylog · Scrum / Kanban
+- **Qualidade e ops:** PHPUnit / Pest / TDD · Docker · New Relic · Graylog · Git · Scrum / Kanban
+
+## Experiência em destaque
+
+- **Tray** (2022–2025) — e-commerce com PHP, Laravel e Vue.js; APIs REST; TDD; RabbitMQ; Docker; New Relic/Graylog
+- **PJBank** (2021–2022) — gestão condominial com Symfony/Zend; PHPUnit/Behat; filas e Docker
+- **Knet** (atual) — Laravel + Vue/React/TypeScript; APIs REST; integração com meios de pagamento
+- Antes: RH, EAD, telefonia e PDV com PHP/Laravel/Symfony e MySQL
 
 ## Também já atuei com
 
-NestJS, Vue.js, React Native e Flutter (projetos de chat, APIs e apps complementares) — úteis como diferencial.
+NestJS, React Native e Flutter (chat, APIs e apps complementares) — úteis como diferencial, sem ser o eixo da carreira.
 
 ## Projetos open-source em destaque
 
@@ -36,4 +45,5 @@ NestJS, Vue.js, React Native e Flutter (projetos de chat, APIs e apps complement
 
 - LinkedIn: [wagner-lima-chimenez](https://www.linkedin.com/in/wagner-lima-chimenez-2b0386153/)
 - E-mail: wagnerllchimenez.comp@gmail.com
+- Telefone: +55 (67) 99926-2419
 - Localização: Dourados, MS — Brasil · aberto a remoto
