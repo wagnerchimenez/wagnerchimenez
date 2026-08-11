@@ -7,7 +7,7 @@ alwaysApply: true
 
 Público-alvo: **recrutador / hiring manager** de vagas PHP/Laravel (remoto).
 
-Escopo: `README.md`, currículo Word, LinkedIn e qualquer texto público de perfil neste repo.
+Escopo: `README.md`, textos de currículo/LinkedIn e qualquer conteúdo público de perfil neste repo. Não versionar arquivo `.docx` de currículo neste repositório.
 
 ## Fazer
 
