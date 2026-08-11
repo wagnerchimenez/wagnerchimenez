@@ -34,16 +34,8 @@ Produtos e entregas reais com **Laravel** (e Inertia nos SaaS):
 
 NestJS, React Native e Flutter — chat, APIs e apps.
 
-## Projetos open-source em destaque
-
-| Repositório | O que demonstra |
-| --- | --- |
-| [sistema-gestao-pedidos](https://github.com/wagnerchimenez/sistema-gestao-pedidos) | Full stack: NestJS + React, DDD, hexagonal, filas Redis, Docker, CI/CD e AWS ECS |
-| [chat-nestjs](https://github.com/wagnerchimenez/chat-nestjs) | Chat com NestJS, PostgreSQL, WebSocket/HTTP, Docker Compose e Swagger |
-
 ## Contato
 
 - LinkedIn: [wagner-lima-chimenez](https://www.linkedin.com/in/wagner-lima-chimenez-2b0386153/)
 - E-mail: wagnerllchimenez.comp@gmail.com
-- Telefone: +55 (67) 99926-2419
 - Localização: Dourados, MS — Brasil · aberto a remoto
